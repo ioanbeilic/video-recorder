@@ -5,7 +5,7 @@ docker-compose up
 ```
 
 ```
-docker-compose up --build -d
+docker-compose up --build --force-recreate -d
 ```
 
 ## Stop a containers
