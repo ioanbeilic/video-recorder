@@ -51,11 +51,11 @@
 /video-recorder-app/Thumbs.db
 /video-recorder-app/UserInterfaceState.xcuserstate
 /video-recorder-app/$RECYCLE.BIN/
-/video-recorder-app/
+
 /video-recorder-app/*.log
 /video-recorder-app/log.txt
 /video-recorder-app/npm-debug.log*
-/video-recorder-app/
+
 /video-recorder-app/.idea
 /video-recorder-app/.ionic
 /video-recorder-app/.sass-cache
