@@ -1,4 +1,4 @@
-#Run docker compose
+## Run docker compose
 
 ```
 docker-compose up
